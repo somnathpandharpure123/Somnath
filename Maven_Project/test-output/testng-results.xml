@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-25T14:35:09 IST" name="Default suite" finished-at="2022-09-25T14:36:49 IST" duration-ms="99311">
+    <groups>
+    </groups>
+    <test started-at="2022-09-25T14:35:09 IST" name="Default test" finished-at="2022-09-25T14:36:49 IST" duration-ms="99311">
+      <class name="Adidas.CreateAccPage">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:35:09 IST" name="beforeClass" finished-at="2022-09-25T14:35:30 IST" duration-ms="20734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:35:30 IST" name="beforeMethod" finished-at="2022-09-25T14:36:09 IST" duration-ms="39016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyRegisterButton()[pri:1, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:36:09 IST" name="VerifyRegisterButton" finished-at="2022-09-25T14:36:12 IST" duration-ms="2507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:36:12 IST" name="afterMethod" finished-at="2022-09-25T14:36:12 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:36:12 IST" name="beforeMethod" finished-at="2022-09-25T14:36:28 IST" duration-ms="15846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyFacebookButton()[pri:2, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:36:28 IST" name="VerifyFacebookButton" finished-at="2022-09-25T14:36:40 IST" duration-ms="11862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFacebookButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:36:40 IST" name="afterMethod" finished-at="2022-09-25T14:36:49 IST" duration-ms="8928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Adidas.CreateAccPage@6aba2b86]" started-at="2022-09-25T14:36:49 IST" name="afterClass" finished-at="2022-09-25T14:36:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Adidas.CreateAccPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
